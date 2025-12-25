@@ -6,10 +6,10 @@ Note: Only version v0.0.6 is uploaded because the project was not initially inte
 ## Features
 
 ### GUI Support
-(https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png)
+![GUI Support](https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png)
 
 ### Json Input Support
-(pics/1.2.png)
+![Json Input Support](pics/1.2.png)
 
 ### Calendar-style Data Interface
 (pics/1.3.png)
