@@ -107,6 +107,6 @@ JuliaHomework/
 
 ## Notes
 - Dependencies Installation is included in the Frame.jl. Or you can install all dependencies via Julia's Pkg manager: `] add Gtk Dates Blink JSON LinearAlgebra Plots`
-- The input JSON file supports irregular data formats (e.g., "15~22" for temperature, "2~3" for wind speed) – the system will automatically process and normalize the data.
+- The input JSON file supports irregular data formats (e.g., "15~22" for temperature) – the system will automatically process and normalize the data.
 - Only version v0.0.6 is uploaded to this repository; earlier versions are for internal development tracking only.
 - For best performance, ensure the JSON file contains continuous date data (e.g., full-month records) to enable comprehensive trend analysis.
