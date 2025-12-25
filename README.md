@@ -33,7 +33,7 @@ Note: Only version v0.0.6 is uploaded because the project was not initially inte
 
 ### Useful Daily Functions
 - **Smart Clothing Recommendation**: Calculates optimal outfits using a "heat value" system for clothing items, combined with temperature and wind speed data (targeting 23℃ comfort).
-- **Feels-like Temperature Model**: Incorporates humidity correction factors to calculate real perceived temperature, aligning with actual living experiences.
+- **Apparant Temperature Model**: Incorporates humidity correction factors to calculate real perceived temperature, aligning with actual living experiences.
 - **Risk Warning System**: Provides personalized suggestions based on daily risk indicators (e.g., UV intensity) for one-click decision support.
 - **Weather Dashboard**: Uses Blink's WebView for advanced component rendering and an elegant interface display.
 
