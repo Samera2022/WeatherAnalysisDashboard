@@ -7,7 +7,7 @@ Note: Only version v0.0.6 is uploaded because the project was not initially inte
 
 ### GUI Support
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png" alt="*GUI Interface">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png">
 </div>
 
 ### Json Input Support
