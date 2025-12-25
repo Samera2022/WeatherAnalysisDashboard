@@ -6,16 +6,26 @@ Note: Only version v0.0.6 is uploaded because the project was not initially inte
 ## Features
 
 ### GUI Support
-![GUI Support](https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png" alt="GUI Interface" width="80%">
+</div>
 
 ### Json Input Support
-![Json Input Support](pics/1.2.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.2.png" alt="Json Input Interface" width="80%">
+</div>
 
 ### Calendar-style Data Interface
-(pics/1.3.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.3.png" alt="Calendar Data Interface" width="80%">
+</div>
 
 ### Useful Daily Functions
-(pics/1.4.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.4.png" alt="Daily Functions" width="80%">
+</div>
 
 ### Multi-Dimension Charts Support
-(pics/1.5.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.5.png" alt="Multi-Dimension Charts" width="80%">
+</div>
