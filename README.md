@@ -7,25 +7,25 @@ Note: Only version v0.0.6 is uploaded because the project was not initially inte
 
 ### GUI Support
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png" alt="GUI Interface" width="80%">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.1.png" alt="GUI Interface">
 </div>
 
 ### Json Input Support
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.2.png" alt="Json Input Interface" width="80%">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.2.png" alt="Json Input Interface">
 </div>
 
 ### Calendar-style Data Interface
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.3.png" alt="Calendar Data Interface" width="80%">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.3.png" alt="Calendar Data Interface">
 </div>
 
 ### Useful Daily Functions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.4.png" alt="Daily Functions" width="80%">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.4.png" alt="Daily Functions">
 </div>
 
 ### Multi-Dimension Charts Support
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.5.png" alt="Multi-Dimension Charts" width="80%">
+  <img src="https://raw.githubusercontent.com/Samera2022/WeatherAnalysisDashboard/main/pics/1.5.png" alt="Multi-Dimension Charts">
 </div>
